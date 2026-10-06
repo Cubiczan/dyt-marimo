@@ -1,4 +1,4 @@
-marimo>=0.13
-torch>=2.2
+marimo>=0.23.15
+torch>=2.13.0
 numpy>=1.26
 matplotlib>=3.8
